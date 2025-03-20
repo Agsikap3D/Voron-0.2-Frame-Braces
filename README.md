@@ -22,7 +22,6 @@ https://www.printables.com/@Agsikap3D_2775778
 4 pcs - M3x8 Bolts BHCS 
 4 pcs - M3 Nuts
 2 pcs - Ø6mm x 3mm Magnets
-
 2 pcs - Printed Parts:
         1 - LH Brace
         1 - RH Brace  
