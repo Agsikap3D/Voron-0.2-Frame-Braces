@@ -24,7 +24,8 @@ https://www.printables.com/@Agsikap3D_2775778
 2 pcs - Ø6mm x 3mm Magnets
 
 2 pcs - Printed Parts:
-          LH and RH Brace  
+        1 - LH Brace
+        1 - RH Brace  
 ```
 Voron parts print settings, STL files are already oriented for printing.  
 Material: ASA or ABS recommended
