@@ -1,4 +1,4 @@
-# Voron-0.2-Frame-Braces-with_Magnet
+# Voron-0.2-Frame-Braces-with-Magnet
 :warning: Preloading of M3 nuts is needed!
 
 Add extra stiffness to your Voron 0.2 with style
