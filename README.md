@@ -1,8 +1,6 @@
 # Voron-0.2-Frame-Braces-with-Magnet
 :warning: Preloading of M3 nuts is needed!
 
-Add extra stiffness to your Voron 0.2 with style
-
 ![Image](https://github.com/user-attachments/assets/d1c7dcc5-c278-40db-963b-68301937a232)
 
 Developed to integrate the magnets to the frame bracing.  
@@ -16,7 +14,7 @@ Current available designs:
 Aluminum extrusion pattern    
 Hex pattern  
 
-You can also access the files thru my printables page:  
+You can also access the STL files thru my printables page:  
 https://www.printables.com/@Agsikap3D_2775778
 
 # BOM and Printing Parts:  
