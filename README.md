@@ -21,7 +21,7 @@ https://www.printables.com/@Agsikap3D_2775778
 
 4 pcs M3x8 Bolts  
 4 pcs M3 Nuts  
-2 pcs Ø6mm x 3mm Magnet
+2 pcs Ø6mm x 3mm Magnet  
 2 pcs Printed Parts: LH and RH Brace  
 
 Voron parts print settings, STL files are already oriented for printing.  
