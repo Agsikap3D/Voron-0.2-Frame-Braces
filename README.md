@@ -21,6 +21,7 @@ https://www.printables.com/@Agsikap3D_2775778
 
 4 pcs M3x8 Bolts  
 4 pcs M3 Nuts  
+2 pcs Ø6mm x 3mm Magnet
 2 pcs Printed Parts: LH and RH Brace  
 
 Voron parts print settings, STL files are already oriented for printing.  
@@ -28,11 +29,12 @@ Material: ASA or ABS recommended
 
 # Installation Notes:
 1.) You can refer to the STP file for necessary dimensions/information.  
-2.) Replaces the bottom stock magnetic door latch.  
+2.) You might need to use super glue to secure the magnet if it is too lose.  
+3.) Replaces the bottom stock magnetic door latch.  
 
 ![Image](https://github.com/user-attachments/assets/6e371a2a-810b-4436-9907-ef287b39011c)
 
-3.) Preloading is necessary for this mod. So plan ahead!
+4.) Preloading is necessary for this mod. So plan ahead!
 
 ![Image](https://github.com/user-attachments/assets/191797b0-7a66-48a6-9230-9985cbad4624)
 
