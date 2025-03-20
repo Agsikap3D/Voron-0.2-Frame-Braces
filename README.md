@@ -21,7 +21,11 @@ Hex pattern
 4 pcs M3 Nuts  
 
 # Installation Notes:
-1.) Replaces the bottom stock magnetic door latch  
-2.) Preloading is necessary for this mod. So plan ahead!
+1.) You can refer to the STP file for necessary dimensions/information.  
+2.) Replaces the bottom stock magnetic door latch.  
+
+![Image](https://github.com/user-attachments/assets/6e371a2a-810b-4436-9907-ef287b39011c)
+
+3.) Preloading is necessary for this mod. So plan ahead!
 
 ![Image](https://github.com/user-attachments/assets/191797b0-7a66-48a6-9230-9985cbad4624)
