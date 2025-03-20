@@ -6,7 +6,6 @@ Add extra stiffness to your Voron 0.2 with style
 ![Image](https://github.com/user-attachments/assets/d1c7dcc5-c278-40db-963b-68301937a232)
 
 Developed to integrate the magnets to the frame bracing.  
-Replacing one of the original magnetic door latches, but still maintaining stock door handle height
 
 This is a remix of the Voron 0 frame bracing by driftrotor :  
 https://www.printables.com/model/854181-voron-v0-01-02-r1-frame-bracing-hex-edition-update/comments
@@ -24,7 +23,7 @@ https://www.printables.com/@Agsikap3D_2775778
 4 pcs M3 Nuts  
 2 pcs Printed Parts: LH and RH Brace  
 
-Voron parts print settings, stl files are already oriented.  
+Voron parts print settings, STL files are already oriented for printing.  
 Material: ASA or ABS recommended
 
 # Installation Notes:
