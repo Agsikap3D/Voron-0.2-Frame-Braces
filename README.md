@@ -20,9 +20,6 @@ Hex pattern
 4 pcs M3x8 Bolts  
 4 pcs M3 Nuts  
 
-# Installation:
-
-
-
-
-
+# Installation Notes:
+1.) Replaces the bottom stock magnetic door latch
+2.) Preloading is necessary for 
