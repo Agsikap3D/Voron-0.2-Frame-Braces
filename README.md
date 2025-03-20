@@ -10,7 +10,7 @@ Developed to integrate the magnets to the frame bracing.
 ![Image](https://github.com/user-attachments/assets/a261ebb9-d92e-44fe-9055-08b33eaa92a8)
 
 This is a remix of the Voron 0 frame bracing by driftrotor :  
-https://www.printables.com/model/854181-voron-v0-01-02-r1-frame-bracing-hex-edition-update/comments
+https://www.printables.com/model/854181-voron-v0-01-02-r1-frame-bracing-hex-edition-update
 
 Current available designs:  
 Aluminum extrusion pattern    
