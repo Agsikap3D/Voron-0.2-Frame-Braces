@@ -22,4 +22,6 @@ Hex pattern
 
 # Installation Notes:
 1.) Replaces the bottom stock magnetic door latch  
-2.) Preloading is necessary for this mod. So plan ahead!  
+2.) Preloading is necessary for this mod. So plan ahead!
+
+![Image](https://github.com/user-attachments/assets/191797b0-7a66-48a6-9230-9985cbad4624)
