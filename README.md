@@ -23,9 +23,10 @@ https://www.printables.com/model/854181-voron-v0-01-02-r1-frame-bracing-hex-edit
         1 - LH Brace
         1 - RH Brace  
 ```
-Voron parts print settings.  
-STL files are already oriented for printing.   
-Material: ASA or ABS recommended
+- Voron parts print settings
+- No supports
+- STL files are already oriented for printing 
+- Material: ASA or ABS recommended
 
 You can also access the STL files thru my printables page:  
 https://www.printables.com/@Agsikap3D_2775778
